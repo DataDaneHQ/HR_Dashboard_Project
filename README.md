@@ -10,7 +10,7 @@ This project showcases a cutting-edge data dashboard, combining the power of Pyt
 
 Inspired by Baraa Khatib Salkini’s expert tutorial, this journey taught me invaluable lessons in data visualization and design. Each step of the process has been documented, highlighting the skills and techniques I gained in crafting this dashboard.
 
-Explore the process, learn the techniques, and dive into the [***Project Plan!***](HR_Dashboard_Canva_Document.pdf)
+Explore the process, learn the techniques, and dive into the [***Project Plan!***](HR_Dashboard_Plan.png)
 
 <ul>
     <li>
